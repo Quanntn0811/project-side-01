@@ -370,9 +370,11 @@ a {
 }
 
 .feature-top .sub-title {
+    text-transform: uppercase;
     font-weight: 700;
     font-size: 1.2rem;
     line-height: 1.5;
+    letter-spacing: 0.4em;
     color: #767e7e;
 }
 
@@ -425,6 +427,8 @@ a {
 }
 
 .course .course-top .sub-title {
+    text-transform: uppercase;
+    letter-spacing: 0.4em;
     font-weight: 700;
     font-size: 1.2rem;
     line-height: 1.5;
